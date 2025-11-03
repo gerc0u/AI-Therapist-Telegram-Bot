@@ -1,6 +1,6 @@
 
   {
-      "name": "AI Therapist Telegram Bot",
+      "name": "ai-therapist-telegram-bot",
       "version": "0.1.0",
       "private": true,
       "dependencies": {
