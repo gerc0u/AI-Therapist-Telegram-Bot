@@ -10,12 +10,4 @@
     "@google/generative-ai": "^0.8.0",
     "dotenv": "^16.0.3"
   }
-},
-      "devDependencies": {
-          "@types/node": "^20.10.0",
-          "@vitejs/plugin-react-swc": "^3.10.2",
-          "vite": "6.3.5"
-      },
-      "scripts": {
-          "start": "node main.js"
-      }
+}
