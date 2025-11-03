@@ -1,5 +1,4 @@
-
-  {
+{
   "name": "ai-therapist-telegram-bot",
   "version": "1.0.0",
   "main": "bot.js",
